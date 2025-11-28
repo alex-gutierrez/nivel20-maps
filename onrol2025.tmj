@@ -46664,7 +46664,13 @@
                          "duration":100,
                          "tileid":725
                         }],
-                 "id":721
+                 "id":721,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
@@ -46692,7 +46698,13 @@
                          "duration":100,
                          "tileid":726
                         }],
-                 "id":722
+                 "id":722,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
@@ -46720,7 +46732,13 @@
                          "duration":100,
                          "tileid":741
                         }],
-                 "id":737
+                 "id":737,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
@@ -46748,7 +46766,13 @@
                          "duration":100,
                          "tileid":742
                         }],
-                 "id":738
+                 "id":738,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
